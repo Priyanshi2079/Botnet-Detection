@@ -2,7 +2,7 @@
 Several Machine Learning Algorithms to detect botnet traffic.
 
 Accuracy Comparison <br />
-![](https://github.com/Priyanshi2079/BotnetDetection/images/graph1.png)
+![](https://github.com/Priyanshi2079/BotnetDetection/blob/main/images/graph1.png)
 <br />
 
 
