@@ -7,7 +7,7 @@ Accuracy Comparison <br />
 
 
 Precision Comaprison <br />
-![](https://github.com/Priyanshi2079/BotnetDetection/images/graph2.png?raw=true)
+![ABC](https://github.com/Priyanshi2079/BotnetDetection/images/graph2.png?raw=true)
 <br />
 
 
