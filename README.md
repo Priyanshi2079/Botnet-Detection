@@ -7,9 +7,9 @@ Accuracy Comparison <br />
 
 
 Precision Comaprison <br />
-![](https://github.com/Priyanshi2079/BotnetDetection/blob/test/images/graph2.png?raw=true)
+![](https://github.com/Priyanshi2079/BotnetDetection/blob/main/images/graph2.png)
 <br />
 
 
 Recall Comaprison <br />
-![](https://github.com/Priyanshi2079/BotnetDetection/blob/test/images/graph3.png)
+![](https://github.com/Priyanshi2079/BotnetDetection/blob/main/images/graph3.png)
